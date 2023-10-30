@@ -1,0 +1,66 @@
+h1{
+  color: darkgreen;
+}
+p{
+  color: blue;
+}
+.look{
+  color: blueviolet;
+}
+.bobo{
+  color: chartreuse;
+}
+h3{text-transform: uppercase;
+}
+  
+.got-it{
+  color: darkcyan;
+}
+
+.bobo:hover{
+  color: deeppink;
+}
+.Don{
+color: rgb(192, 192, 192); 
+background-color: rgb(190, 154, 36); 
+width:200px ; 
+height:400px ;
+padding: 16px;
+}
+
+
+.Star-boy{
+  color: white;
+  border-top:3px solid yellow; 
+  border-bottom:3px solid rgb(255, 0, 0);
+  border-right:3px dashed white;
+  border-left:3px dashed red;
+  
+}
+.section1{
+  width: 500px;
+  height: 500px;
+  background-color: blueviolet;
+  margin-bottom: 20px;
+  margin-left: 20px;
+}
+.section2{
+width: 500px;
+height: 500px;
+background-color: brown;
+}
+button{
+  background-color: darkslateblue;
+  border: none;
+  padding: 10px 20px 10px 20px;
+  border-top-right-radius: 20px;
+  color: white;
+  border-bottom-left-radius: 20px;
+
+}
+button:hover{
+border-radius: 20px;
+
+  color: deeppink;
+  background-color: aqua;
+}
